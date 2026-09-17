@@ -32,7 +32,7 @@ O projeto foi criado como uma experiência acadêmica e apresentado na **feira d
 
 ### Desenvolvimento
 
-* **Sabrina de Oliveira Freitas**
+* **Sabrina de Oliveira Freitas** e 
 * **Marcelo Carvalho Filho**
 
 ### Arte e Assets
